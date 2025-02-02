@@ -1,0 +1,1712 @@
+Dec 11, 2024 5:29:42 PM Configuration configDetails
+INFO: Total tickets: 20
+Dec 11, 2024 5:29:46 PM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 11, 2024 5:29:47 PM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 11, 2024 5:29:54 PM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 11, 2024 5:29:56 PM Configuration configDetails
+INFO: Number of Vendors: 2
+Dec 11, 2024 5:29:57 PM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 11, 2024 5:29:59 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:29:59 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 5:29:59 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 5:29:59 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:01 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:01 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 5:30:01 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 5:30:01 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:03 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:03 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 5:30:03 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 5:30:03 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:05 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:05 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 5:30:05 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 5:30:05 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:07 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:07 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:07 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:07 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:09 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:09 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:09 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:09 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:11 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:11 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:11 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:11 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:13 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:13 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:13 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:13 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:15 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:15 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:30:15 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:30:15 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:30:17 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:30:17 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:33:30 PM Configuration configDetails
+INFO: Total tickets: 20
+Dec 11, 2024 5:33:32 PM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 11, 2024 5:33:34 PM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 11, 2024 5:33:39 PM Configuration configDetails
+INFO: Max ticket capacity: 10
+Dec 11, 2024 5:33:41 PM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 11, 2024 5:33:42 PM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 11, 2024 5:33:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:33:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 5:33:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 11, 2024 5:33:44 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 11, 2024 5:33:44 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 5:33:45 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:33:45 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 1
+Dec 11, 2024 5:33:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 5:33:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 11, 2024 5:33:46 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 11, 2024 5:33:46 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 5:33:47 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:33:47 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:48 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:33:48 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 11, 2024 5:33:48 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 11, 2024 5:33:48 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 11, 2024 5:33:48 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 5:33:49 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:33:49 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:50 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:33:50 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 11, 2024 5:33:50 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 11, 2024 5:33:50 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 11, 2024 5:33:50 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 5:33:51 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:33:51 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:52 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 5:33:52 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 5:33:52 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 11, 2024 5:33:52 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 11, 2024 5:33:52 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 5:33:53 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 5:33:53 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:54 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 5:33:54 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 11, 2024 5:33:54 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 11, 2024 5:33:54 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 11, 2024 5:33:54 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 5:33:55 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 5:33:55 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 5:33:56 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 1
+Dec 11, 2024 5:33:56 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:32:54 PM Configuration configDetails
+INFO: Total tickets: 10
+Dec 11, 2024 11:32:56 PM Configuration configDetails
+INFO: Ticket Release Rate: 1
+Dec 11, 2024 11:32:56 PM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 11, 2024 11:33:02 PM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 11, 2024 11:33:05 PM Configuration configDetails
+INFO: Number of Vendors: 2
+Dec 11, 2024 11:33:05 PM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 11, 2024 11:33:11 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:11 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:33:11 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 11:33:11 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:33:12 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:12 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:12 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:33:12 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 11:33:12 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:33:12 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:13 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:13 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:13 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:13 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:33:13 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 11:33:13 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:33:14 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:14 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:14 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:33:14 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 11:33:14 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:33:14 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:15 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:15 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:15 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:15 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:33:15 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 11:33:15 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:33:20 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:20 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:33:20 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:33:20 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:21 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:21 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:33:21 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 11:33:21 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:33:21 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:22 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:22 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:22 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:33:22 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:33:22 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:23 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:33:23 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:33:23 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:33:23 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:33:23 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:33:24 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:33:24 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:57:29 PM Configuration configDetails
+INFO: Total tickets: 10
+Dec 11, 2024 11:57:33 PM Configuration configDetails
+INFO: Ticket Release Rate: 1
+Dec 11, 2024 11:57:34 PM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 11, 2024 11:57:38 PM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 11, 2024 11:57:39 PM Configuration configDetails
+INFO: Number of Vendors: 2
+Dec 11, 2024 11:57:40 PM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 11, 2024 11:57:42 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:57:42 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:57:42 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 11, 2024 11:57:42 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:57:43 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:57:43 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 11, 2024 11:57:43 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:57:43 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:57:44 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:44 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:57:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 11:57:44 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:57:44 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:57:45 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:45 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:45 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 11, 2024 11:57:45 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 11, 2024 11:57:45 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:57:45 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 11, 2024 11:57:46 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:46 PM TicketPool purchaseTicket
+INFO: Ticket pool is empty. Customer is waiting.
+Dec 11, 2024 11:57:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 11, 2024 11:57:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 11, 2024 11:57:46 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 11, 2024 11:57:46 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 1:38:58 AM Configuration configDetails
+INFO: Total tickets: 100
+Dec 12, 2024 1:42:54 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 1:43:15 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 1:43:16 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 1:43:22 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 1:44:34 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 1:44:47 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 1:44:53 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 1:44:53 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 1:44:53 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 1:44:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 1:44:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 2
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:44:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 1:44:54 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:55 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:44:55 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:44:55 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:56 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:56 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:56 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 1:44:56 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 1:44:56 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 1:44:56 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:44:56 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:57 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:57 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:44:57 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:58 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:58 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:44:58 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:59 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:44:59 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 1:44:59 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 1:45:00 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 1:45:00 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 1:45:00 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 1:45:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 1:45:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 1:45:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 1:45:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 2:15:12 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:15:17 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:15:24 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:15:28 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:15:37 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:15:39 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:15:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:15:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:15:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:15:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:15:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:15:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:15:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:15:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:15:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:15:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:15:48 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:15:48 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:15:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:15:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:15:49 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:15:49 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:15:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:15:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:15:50 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:15:50 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:15:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:51 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:15:51 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:15:51 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:15:51 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:15:51 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:15:52 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:15:52 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:15:52 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:15:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:15:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 12, 2024 2:15:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:15:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 2:17:30 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:17:36 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:17:41 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:17:52 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:17:55 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:17:56 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:18:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:18:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:18:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:18:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:18:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:18:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:18:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:18:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:18:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:18:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:08 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:18:08 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:18:08 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:08 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:08 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:18:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:18:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:18:09 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:09 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:09 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:18:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:10 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:18:10 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:18:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:11 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:18:11 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:18:11 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:18:11 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:18:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:12 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:18:12 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:18:12 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:18:12 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:18:12 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:18:13 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:18:13 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:13 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:18:14 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:18:14 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:18:15 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:18:15 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 12, 2024 2:21:19 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:21:25 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:21:27 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:21:31 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:21:33 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:21:34 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:21:41 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:21:41 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:21:41 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:42 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:21:42 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:42 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:43 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:21:43 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:21:43 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:21:43 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:21:43 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:43 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:43 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:44 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:21:44 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:21:44 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:21:44 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:21:44 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:44 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:44 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:21:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:21:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:21:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:21:45 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:45 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:45 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:21:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:21:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:21:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:21:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:21:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:21:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:21:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:21:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:21:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:21:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:21:48 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:21:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:21:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:21:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:21:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 2:23:29 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:23:35 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:23:37 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:23:49 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:23:53 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:23:55 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:24:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:24:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:24:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:24:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:24:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:03 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:03 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:04 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:04 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:05 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:05 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:06 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:07 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:24:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:07 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:24:07 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:24:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:24:08 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:24:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:24:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:24:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:24:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:24:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 2:25:56 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:26:00 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:26:03 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:26:15 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:26:18 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:26:20 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:26:25 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:26:25 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:26:25 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:26:26 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:26:26 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:26 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:27 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:26:27 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:26:27 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:26:27 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:26:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:28 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:26:28 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:26:28 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:26:28 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:26:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:29 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:26:29 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:26:29 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:26:29 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:26:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:30 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:26:30 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:26:30 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:26:30 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:26:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:31 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:26:31 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:26:31 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:26:31 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:26:31 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:26:32 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:26:32 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:26:32 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:26:33 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:26:33 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:26:34 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:26:34 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 12, 2024 2:28:06 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:28:10 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:28:12 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:28:14 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:28:18 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:28:20 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:28:26 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:28:26 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:28:26 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:27 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:28:27 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:27 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:28 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:28:28 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:28:28 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:28:28 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:28 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:29 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:28:29 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:28:29 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:28:29 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:29 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:30 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:28:30 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:28:30 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:28:30 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:30 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:31 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:28:31 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:28:31 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:28:31 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:31 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:31 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:31 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:32 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:28:32 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:28:32 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:28:32 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:28:32 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:28:33 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:28:33 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:28:33 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:28:34 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:28:34 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:28:35 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:28:35 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 12, 2024 2:31:36 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:31:41 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:31:42 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:31:45 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:31:48 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:31:51 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 1
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:31:59 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:31:59 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 3
+Dec 12, 2024 2:31:59 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:32:00 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:32:00 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:00 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:32:01 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:32:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:32:01 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:32:01 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:01 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:01 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:32:02 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:32:02 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:32:02 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:32:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:02 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:03 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:03 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:03 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:04 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:04 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:04 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:05 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:32:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:32:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:05 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:32:05 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:32:05 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:32:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:32:06 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:32:06 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:32:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:32:07 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 12, 2024 2:32:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:32:08 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Dec 12, 2024 2:35:43 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:35:46 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:35:49 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:35:59 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:36:01 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:36:03 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 2
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 3
+Dec 12, 2024 2:36:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:36:09 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:36:09 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:36:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:36:10 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:10 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:11 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:11 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:11 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:12 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:36:12 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:36:12 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:36:12 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:36:12 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:12 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:12 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:13 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:36:13 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:36:13 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:36:13 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:36:13 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:13 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:13 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:14 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:36:14 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:36:14 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 4
+Dec 12, 2024 2:36:14 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:36:14 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:14 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:14 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:15 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:36:15 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:36:15 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:36:15 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 5
+Dec 12, 2024 2:36:15 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:36:16 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:36:16 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:36:16 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:36:17 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:36:17 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:36:18 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:36:18 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Dec 12, 2024 2:41:19 AM Configuration configDetails
+INFO: Total tickets: 20
+Dec 12, 2024 2:41:23 AM Configuration configDetails
+INFO: Ticket Release Rate: 2
+Dec 12, 2024 2:41:27 AM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Dec 12, 2024 2:41:30 AM Configuration configDetails
+INFO: Max ticket capacity: 5
+Dec 12, 2024 2:41:34 AM Configuration configDetails
+INFO: Number of Vendors: 3
+Dec 12, 2024 2:41:37 AM Configuration configDetails
+INFO: Number of Customers: 2
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:41:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:41:45 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 1
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 2
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:41:45 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:41:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:41:46 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 2
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 3
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 5
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:46 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:41:47 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:41:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:41:47 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:41:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:47 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:41:48 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:41:48 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:41:48 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:41:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:48 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:41:49 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:41:49 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:41:49 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:41:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:49 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:41:50 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:41:50 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:41:50 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:41:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:50 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:51 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 4
+Dec 12, 2024 2:41:51 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 3
+Dec 12, 2024 2:41:51 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 4
+Dec 12, 2024 2:41:51 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 3, Current size: 5
+Dec 12, 2024 2:41:51 AM TicketPool addTicket
+INFO: Ticket pool is full. Vendor is waiting
+Dec 12, 2024 2:41:52 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 4
+Dec 12, 2024 2:41:52 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:41:52 AM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 2, Current size: 4
+Dec 12, 2024 2:41:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 3
+Dec 12, 2024 2:41:53 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 2
+Dec 12, 2024 2:41:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 1
+Dec 12, 2024 2:41:54 AM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 2, Current pool size: 0
+Jan 21, 2025 12:43:28 PM Configuration configDetails
+INFO: Total tickets: 10
+Jan 21, 2025 12:43:32 PM Configuration configDetails
+INFO: Ticket Release Rate: 1
+Jan 21, 2025 12:43:33 PM Configuration configDetails
+INFO: Customer Retrieval Rate: 1
+Jan 21, 2025 12:43:35 PM Configuration configDetails
+INFO: Max ticket capacity: 4
+Jan 21, 2025 12:43:37 PM Configuration configDetails
+INFO: Number of Vendors: 1
+Jan 21, 2025 12:43:38 PM Configuration configDetails
+INFO: Number of Customers: 1
+Jan 21, 2025 12:43:39 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:39 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:40 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:40 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:41 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:41 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:42 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:42 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:43 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:43 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:44 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:44 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:45 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:45 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:46 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:46 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
+Jan 21, 2025 12:43:47 PM TicketPool addTicket
+INFO: 1 Ticket added by vendor: 1, Current size: 1
+Jan 21, 2025 12:43:47 PM TicketPool purchaseTicket
+INFO: 1 Ticket purchased by customer: 1, Current pool size: 0
